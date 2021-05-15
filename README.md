@@ -1,4 +1,6 @@
-## Databases and SQL for Data Science by IBM on Coursera
+# Databases and SQL for Data Science by IBM on Coursera
+
+## See my certificate here - https://coursera.org/share/afc84aabf2bcc3ad0de3243a89d87aae 
 
 Much of the world's data resides in databases. SQL (or Structured Query Language) is a powerful language which is used for communicating with and extracting data from databases. 
 The hands-on labs for this course uses the IBM Cloud environment for working with a relational database. The database is created and accessed with IBM Db2 from the web browser.
