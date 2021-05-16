@@ -2,8 +2,20 @@
 
 ## See my certificate here - https://coursera.org/share/afc84aabf2bcc3ad0de3243a89d87aae 
 
-Much of the world's data resides in databases. SQL (or Structured Query Language) is a powerful language which is used for communicating with and extracting data from databases. 
-The hands-on labs for this course uses the IBM Cloud environment for working with a relational database. The database is created and accessed with IBM Db2 from the web browser.
+Much of the world's data resides in databases. SQL (or Structured Query Language) is a powerful language which is used for communicating with and extracting data from databases. This course teaches a lot of things, from how to run basic queries to modeling databases.
+The hands-on labs for this course are done on the IBM Cloud environment for working with a relational database. The database is created and accessed with IBM Db2 from the web browser.
+
+## Topics
+ - Statements: CREATE, DELETE, SELECT, INSERT and UPDATE table.
+ - COUNT, LIMIT, DISTINCT.
+ - String Patterns, Ranges, Sorting, Grouping.
+ - Sub-queries and multiple tables(implicit join)
+ - Database access from Python.
+ - Analyzing data with Python.
+ - JOIN(inner, outer).
+ - Working with real-word datasets.
+ - Relational databases concepts.
+ - Relational Model Constraints.
 
 ## Week 4 : IBM Db2 Database Access with Python
 
